@@ -208,3 +208,7 @@ __marimo__/
 
 clothing-dataset-small/
 *.h5
+*.bin
+*.pb
+*.onnx
+*.keras
